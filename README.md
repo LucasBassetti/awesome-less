@@ -1,6 +1,6 @@
 # Awesome Less [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://cdn.rawgit.com/LucasBassetti/awesome-less/master/awesome-less-logo.svg" align="right" height="100">](http://lesscss.org/)
+[<img src="https://rawgit.com/LucasBassetti/awesome-less/master/awesome-less-logo.svg" align="right" height="100">](http://lesscss.org/)
 
 > Curated list of awesome Less frameworks, libraries, style guides, articles, and resources. The main idea is that everyone can contribute here, so we can center all the informations about Stylus and keep up-to-date.
 
