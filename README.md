@@ -39,14 +39,12 @@ Less (sometimes stylized as LESS) is a dynamic style sheet language that can be 
 
 ## Frameworks
 
-**[Back to top](#table-of-contents)**
-
-## Libraries and Mixins
-
 - [Bootstrap 3](http://getbootstrap.com/) - Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 - [Material Design for Bootstrap](https://github.com/FezVrasta/bootstrap-material-design) - Material Design for Bootstrap is a Bootstrap V3 compatible theme; it is an easy way to use the new Material Design guidelines by Google in your Bootstrap 3 based application.
 
 **[Back to top](#table-of-contents)**
+
+## Libraries and Mixins
 
 ### Grid
 
