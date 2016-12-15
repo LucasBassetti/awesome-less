@@ -581,7 +581,10 @@
 	</g>
 </g>
 <g id="brackets">
-	<text transform="matrix(1 0 0 1 580.064 828.8784)" fill="#4A4A4A" font-family="'MyriadPro-Regular'" font-size="704.4146">{     }</text>
+	<text transform="matrix(1 0 0 1 580.064 828.8784)" fill="#4A4A4A" font-family="'MyriadPro-Regular'" font-size="704.4146">{</text>
+</g>
+<g id="brackets2">
+	<text transform="matrix(1 0 0 1 1523.1763 828.8784)" fill="#4A4A4A" font-family="'MyriadPro-Regular'" font-size="704.4146">}</text>
 </g>
 <g id="awesome">
 	<text transform="matrix(1 0 0 1 767.5117 502.4165)" fill="#4A4A4A" font-family="'ColonnaMT'" font-size="208.3132">awesome</text>
