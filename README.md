@@ -2,7 +2,7 @@
 
 [<img src="https://cdn.rawgit.com/LucasBassetti/awesome-less/master/awesome-less-logo.svg" align="right" height="100">](http://lesscss.org/)
 
-> Curated list of awesome Less frameworks, libraries, style guides, articles, and resources.
+> Curated list of awesome Less frameworks, libraries, style guides, articles, and resources. The main idea is that everyone can contribute here, so we can center all the informations about Stylus and keep up-to-date.
 
 ## Contents
 - [About](#about)
