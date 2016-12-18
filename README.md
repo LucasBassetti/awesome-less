@@ -133,6 +133,8 @@ Less (sometimes stylized as LESS) is a dynamic style sheet language that can be 
 - [Learning Less.js](https://www.packtpub.com/web-development/learning-lessjs)
 - [Instant LESS CSS Preprocessor How-to](https://www.packtpub.com/web-development/instant-less-css-preprocessor-how-instant)
 
+**[Back to top](#contents)**
+
 ## Videos
 
 - [Less CSS Tutorials for Beginners](https://www.youtube.com/watch?v=YQYJUeokqOY&list=PL6gx4Cwl9DGCshbAx1JpBtNoKh8iKAAiy)
@@ -163,6 +165,8 @@ Less (sometimes stylized as LESS) is a dynamic style sheet language that can be 
 - [Twitter](https://twitter.com/hashtag/lesscss)
 - [Quora](https://www.quora.com/topic/LESS-stylesheet-language)
 - [Medium](https://medium.com/search?q=less%20css)
+
+**[Back to top](#contents)**
 
 ## Contributing
 
