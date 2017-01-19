@@ -1,6 +1,6 @@
 # Awesome Less [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://cdn.rawgit.com/LucasBassetti/awesome-less/14437854/less-logo.svg" align="right" height="90">](http://lesscss.org/)
+[<img src="https://cdn.rawgit.com/LucasBassetti/awesome-less/14437854/less-logo.svg" align="right" height="80">](http://lesscss.org/)
 
 > Curated list of awesome Less frameworks, libraries, style guides, articles, and resources. The main idea is that everyone can contribute here, so we can center all the informations about Less and keep up-to-date.
 
@@ -101,7 +101,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Hayaky](https://github.com/hayaku/hayaku) - Hayaku is a bundle of useful scripts aiming for rapid front-end web development.
 - [CSS Less(ish)](https://github.com/kizza/CSS-Less-ish) - Sublime Text 2 & 3 plugin that implements a stripped down version of the functionality in css preprocessors (such as Less).
 - [Hyra Helper](https://github.com/Hyra/less) - CakePHP plugin that converts your Less files to CSS using only PHP.
-- [Less.rb](https://github.com/cowboyd/less.rb) - Leaner CSS, in your browser or Ruby (via Less.js).
+- [Less.rb](https://github.com/cowboyd/less.rb) - Leaner CSS, in your browser or Ruby (via Less).
 - [Python Compiler](https://github.com/lesscpy/lesscpy) - Compiler written in Python for the Less language.
 - [LessCSS Java](https://github.com/marceloverdijk/lesscss-java) - Less CSS Compiler for Java.
 
