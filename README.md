@@ -1,6 +1,6 @@
 # Awesome Less [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://rawgit.com/LucasBassetti/awesome-less/master/less-logo.svg" align="right" height="90">](http://lesscss.org/)
+[<img src="https://cdn.rawgit.com/LucasBassetti/awesome-less/14437854/less-logo.svg" align="right" height="90">](http://lesscss.org/)
 
 > Curated list of awesome Less frameworks, libraries, style guides, articles, and resources. The main idea is that everyone can contribute here, so we can center all the informations about Less and keep up-to-date.
 
@@ -25,7 +25,7 @@
 
 ## About
 
-Less is a open source dynamic style sheet language that can be compiled into Cascading Style Sheets (CSS) and run on the client side or server side. Designed by Alexis Sellier, Less is influenced by Sass and has influenced the newer "SCSS" syntax of Sass, which adapted its CSS-like block formatting syntax. Less provides the following mechanisms: variables, nesting, mixins, operators and functions; the main difference between Less and other CSS precompilers being that Less allows real-time compilation via Less by the browser. Font: [Wikipedia](https://en.wikipedia.org/wiki/Less_(stylesheet_language)
+Less is a open source dynamic style sheet language that can be compiled into Cascading Style Sheets (CSS) and run on the client side or server side. Designed by Alexis Sellier, Less is influenced by Sass and has influenced the newer "SCSS" syntax of Sass, which adapted its CSS-like block formatting syntax. Less provides the following mechanisms: variables, nesting, mixins, operators and functions; the main difference between Less and other CSS precompilers being that Less allows real-time compilation via Less by the browser. Font: [Wikipedia](https://en.wikipedia.org/wiki/Less_(stylesheet_language))
 
 **[Back to top](#contents)**
 
