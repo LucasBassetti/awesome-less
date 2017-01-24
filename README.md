@@ -15,6 +15,14 @@
   - [Animation](#animation)
   - [Miscellaneous](#miscellaneous)
 - [Style Guides](#style-guides)
+- [Ports of Less](#ports-of-less)
+  - [Java](#java)
+  - [.Net](#.net)
+  - [PHP](#php)
+  - [Python](#python)
+  - [Ruby](#ruby)
+  - [Go](#go)
+- [Translations](#translations)
 - [Articles](#articles)
 - [Books](#books)
 - [Videos](#videos)
@@ -101,9 +109,6 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Hayaky](https://github.com/hayaku/hayaku) - Hayaku is a bundle of useful scripts aiming for rapid front-end web development.
 - [CSS Less(ish)](https://github.com/kizza/CSS-Less-ish) - Sublime Text 2 & 3 plugin that implements a stripped down version of the functionality in css preprocessors (such as Less).
 - [Hyra Helper](https://github.com/Hyra/less) - CakePHP plugin that converts your Less files to CSS using only PHP.
-- [Less.rb](https://github.com/cowboyd/less.rb) - Leaner CSS, in your browser or Ruby (via Less).
-- [Python Compiler](https://github.com/lesscpy/lesscpy) - Compiler written in Python for the Less language.
-- [LessCSS Java](https://github.com/marceloverdijk/lesscss-java) - Less CSS Compiler for Java.
 
 **[Back to top](#contents)**
 
@@ -111,6 +116,71 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 - [Handshake Style Guide](https://github.com/handshake/less-style-guide) - This guide presents a collection of best-practices and coding conventions.
 - [WebMD Health Services Style Guide](https://github.com/bitmap/less-styleguide) - This document outlines CSS/Less best practices at WebMD Health Services.
+
+**[Back to top](#contents)**
+
+## Ports of Less
+
+Less has been ported to several other programming languages.
+
+### Java
+
+- [Lesscss](https://github.com/houbie/lesscss) - Runs Less using Rhino, Nasshorn or node.js engine; 1.7.0 compliant.
+- [Lesscss Gradle Plugin](https://github.com/houbie/lesscss-gradle-plugin) - Gradle plugin based on Less.
+- [Less Engine](https://github.com/Asual/lesscss-engine) - Runs Less in the Rhino JVM-based JavaScript interpreter.
+- [Less CSS Compiler for Java](https://github.com/marceloverdijk/lesscss-java) - Runs Less in the Rhino JVM-based JavaScript interprete.
+- [Less4j](https://github.com/SomMeri/less4j) - Native Java implementation.
+- [JLessC](https://github.com/i-net-software/jlessc) - Less compiler written completely in Java.
+
+**[Back to top](#contents)**
+
+### .Net
+
+- [Less CSS for .Net](http://www.dotlesscss.org/) - Compiler written in .Net.
+- [BundleTransformer.Less](http://www.nuget.org/packages/BundleTransformer.Less/) - Compiler written in .Net.
+
+**[Back to top](#contents)**
+
+### PHP
+
+- [Lessphp](http://leafo.net/lessphp/) - Compiler written in PHP.
+- [Less.php](http://lessphp.gpeasy.com/) - PHP port.
+- [ILess](https://github.com/mishal/iless) - PHP port written in Javascript.
+
+**[Back to top](#contents)**
+
+### Python
+
+- [Pyhton Compiler](https://github.com/lesscpy/lesscpy) - Compiler written in Python.
+
+**[Back to top](#contents)**
+
+### Ruby
+
+- [Ruby Compiler](https://github.com/cowboyd/less.rb) - Less in Ruby's V8 Engine.
+
+**[Back to top](#contents)**
+
+### Go
+
+**[Back to top](#contents)**
+
+- [Go Compiler](https://github.com/kib357/less-go) - Runs Less inside embedded Javascript engine.
+
+## Translations
+
+Community members have translated Less.js's documentation into various languages.
+
+- [Belarusian](http://www.designcontest.com/show/lesscss-be)
+- [中文 (Chinese)](http://lesscss.cn/)
+- [Danish](http://lesscss.dk/)
+- [German](http://www.lesscss.de)
+- [Indonesian](http://bertzzie.com/post/7/dokumentasi-less-bahasa-indonesia)
+- [Iranian](http://less-css.ir)
+- [Japanese](http://less-ja.studiomohawk.com/)
+- [Polish](http://ciembor.github.com/lesscss.org/)
+- [Spanish](http://amatellanes.github.io/lesscss.org/)
+- [Vietnamese](http://less.eten.vn/)
 
 **[Back to top](#contents)**
 
@@ -163,6 +233,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Twitter](https://twitter.com/hashtag/lesscss)
 - [Quora](https://www.quora.com/topic/LESS-stylesheet-language)
 - [Medium](https://medium.com/search?q=less%20css)
+- [Freenode](http://webchat.freenode.net/?randomnick=1&channels=%23%23lesscss)
 
 **[Back to top](#contents)**
 
