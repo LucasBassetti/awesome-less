@@ -17,7 +17,7 @@
 - [Style Guides](#style-guides)
 - [Ports of Less](#ports-of-less)
   - [Java](#java)
-  - [.Net](#.net)
+  - [.Net](#net)
   - [PHP](#php)
   - [Python](#python)
   - [Ruby](#ruby)
@@ -163,9 +163,9 @@ Less has been ported to several other programming languages.
 
 ### Go
 
-**[Back to top](#contents)**
-
 - [Go Compiler](https://github.com/kib357/less-go) - Runs Less inside embedded Javascript engine.
+
+**[Back to top](#contents)**
 
 ## Translations
 
