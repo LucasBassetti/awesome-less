@@ -195,6 +195,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [CSS 2 Convert](http://css2less.co/) - Quick way to automatically convert CSS to Less, easy as copy and paste.
 - [CSS Less(ish)](https://github.com/kizza/CSS-Less-ish) - Sublime Text 2 & 3 plugin that implements a stripped down version of the functionality in css preprocessors (such as Less).
 - [Crunch 2!](http://getcrunch.co/) - Crunch 2 is a cross-platform (Windows, Mac, and Linux) editor with integrated compiling. If you work with large Less projects, you should definitely try it out, as you only need the free version for Less files.
+- [diamond](https://diamond.js.org) - Dependency management built for Sass, Less, and CSS.
 - [Eclipse Less Plugin](http://www.normalesup.org/~simonet/soft/ow/eclipse-less.html) - This plugin extends the Eclipse IDE by providing handy features to edit and compile Less stylesheets.
 - [Eclipse Transpiler Plugin](https://github.com/gossi/eclipse-transpiler-plugin) - Eclipse plugin to automatically transpile your files (Less, SASS, CoffeeScript, etc.).
 - [Emacs](https://github.com/purcell/less-css-mode) - Emacs mode with support for compile-on-save.
