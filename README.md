@@ -229,6 +229,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Lesstester](http://lesstester.com/) - Online compiler for Less CSS.
 - [Precess](http://precess.co/) - A real time preprocesser compiler.
 - [Winless](http://winless.org/online-less-compiler) - This Online Less Compiler can help you to learn Less. You can go through the examples below or try your own Less code.
+- [Freeformatter](https://www.freeformatter.com/less-compiler.html) - This free online LESS compiler will generate the final CSS code using your provided LESS source. This tool is best suited for quick tests and for learning LESS.
 
 **[Back to top](#contents)**
 
