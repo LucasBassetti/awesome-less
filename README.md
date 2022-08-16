@@ -248,7 +248,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Danish](http://lesscss.dk/)
 - [German](http://www.lesscss.de)
 - [Indonesian](http://bertzzie.com/post/7/dokumentasi-less-bahasa-indonesia)
-- [Iranian](http://less-css.ir)
+- [Iranian](http://lesscss-iran.ir)
 - [Japanese](http://less-ja.studiomohawk.com/)
 - [Polish](http://ciembor.github.com/lesscss.org/)
 - [Spanish](http://amatellanes.github.io/lesscss.org/)
